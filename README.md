@@ -33,7 +33,7 @@ O Recipe Page é uma pagina de receita de um cupcake.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/XsaYy4igdUehzxFSkPXf0Y/Página-de-receita-(Community)?node-id=915-685&t=wyg1D6e3zYU4InfK-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/XsaYy4igdUehzxFSkPXf0Y/P%C3%A1gina-de-receita-(Community)?node-id=0-1&t=wyg1D6e3zYU4InfK-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
