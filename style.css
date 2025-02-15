@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url(/assets/Página\ de\ receita\ \(1\).jpg);
+  background-image: url(assets/PaginaReceita.jpg);
   background-size: cover;
 }
 
@@ -51,12 +51,12 @@ h2 {
   line-height: 150%;
 }
 
-ul{
+ul {
   padding-left: 24px;
 }
 
-footer{
-  color: #F0E8C2;
+footer {
+  color: #f0e8c2;
   text-align: center;
   padding-bottom: 48px;
 }
